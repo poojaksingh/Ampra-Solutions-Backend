@@ -1,0 +1,4 @@
+{
+  "PORT" : "5000",
+  "DB" : "mongodb+srv://unknown:unknown@student.gb0wa.mongodb.net/moment?retryWrites=true&w=majority"
+}
